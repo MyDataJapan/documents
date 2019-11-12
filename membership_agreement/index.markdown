@@ -104,8 +104,8 @@
 #### 第１７条 （協議事項）
 本規約の内容について協議が生じた場合、又は定めのない事項については、信義誠実の原則に従い協議の上、円滑に解決を図るものとする。
 
-本会員規約は、令和元年 MM 月 DD 日より施行する。
+本会員規約は、令和元年7月23日より施行する。
 一般社団法人MyDataJapan
 
-改訂履歴
+改訂履歴は[こちら](https://github.com/MyDataJapan/documents/commits/master/membership_agreement/index.markdown)で公開しております。
 
