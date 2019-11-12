@@ -40,7 +40,7 @@
 
 | 利用サービス名 | 提供会社名 | 用途 |
 ----|----|----
-| AmazonWebService | Amazon Web Services, Inc. | 本ウェブサイトのホスティング |
+| Amazon Web Services | Amazon Web Services, Inc. | 本ウェブサイトのホスティング |
 | Slack | Slack Technologies, Inc. | MyDataJapan内外でのコミュニケーションツール |
 | G Suite | Google LLC | メール管理・ファイル管理 |
 | slido | sli.do s.r.o. | イベントオンライン質問ツール |
