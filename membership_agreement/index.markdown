@@ -107,5 +107,5 @@
 本会員規約は、令和元年7月23日より施行する。
 一般社団法人MyDataJapan
 
-改訂履歴は[こちら](https://github.com/MyDataJapan/documents/commits/master/membership_agreement/index.markdown)で公開しております。
-
+改訂履歴
+令和元年 11 月 15 日 Ver.2
