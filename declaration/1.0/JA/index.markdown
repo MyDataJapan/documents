@@ -38,7 +38,7 @@ _今、この考え方を世界に広め、個人、社会、経済に及ぼす�
 
 _注：「**役割**」は「**（担当（者/組織）**」を意味するものではありません。個人または組織は一度に1つ以上の役割を担うことができます。_
 
-![MYDATAにおける役割](image_0_JA.png)
+![MYDATAにおける役割](https://github.com/MyDataJapan/documents/blob/master/declaration/1.0/JA/image_0_JA.png)
 
 ### 個人
 
