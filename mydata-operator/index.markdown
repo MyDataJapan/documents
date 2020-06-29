@@ -1,10 +1,54 @@
 # Understanding MyData Operator（日本語版）
 ###### tags: `MyDataOperator` `whitepaper`
 
-**<font color=Crimson>この翻訳は、MyData Globalが4月29日にリリースしたホワイトペーパー[「*Understanding MyData Operators*](https://mydata.org/operators/)」の、日本語版レビューのために6月29日に公開したものです。今後、一定期間のパブリックレビュー後、正式版を[MyData Global](https://mydatajapan.org/)および[MyData Japan](https://mydatajapan.org/)のHPで公開します。**</font>
-
 ![image](https://mydatajapan.org/images/mydata-operators-header.png)
 
+**<font color=Crimson>この翻訳は、MyData Globalが4月29日にリリースしたホワイトペーパー[「*Understanding MyData Operators*](https://mydata.org/operators/)」の、日本語版レビューのために6月29日に公開したものです。今後、一定期間のパブリックレビュー後、正式版（PDF）を[MyData Global](https://mydatajapan.org/)および[MyData Japan](https://mydatajapan.org/)のHPで公開します。**</font>
+
+### 謝辞
+
+MyData Global (mydata.org)は、50カ国以上の数百人の個人と数十の組織を会員として代表しています。本ペーパーの作成と出版を可能にしてくださった会員の皆様に感謝いたします。
+
+以下のMyData Globalのメンバーは、本ペーパーの編集作業と制作を支援してくださいました。
+
+Coelition<br>
+InnoValor<br>
+Sitra
+
+公開時点では、以下のプロトオペレーターがMyData Globalのメンバーとなっていました。
+
+1001 Lakes<br>
+comuny<br>
+Cozy Cloud<br>
+Datafund<br>
+DataSign<br>
+DataYogi<br>
+Diabetes Services<br>
+Digi.me<br>
+esatus<br>
+fair&smart<br>
+Gravito<br>
+Healthbank cooperative<br>
+iGrant.io<br>
+JLINC<br>
+Meeco<br>
+MIDATA<br>
+Mydex<br>
+MyLife Digital<br>
+NTT DATA Corporation<br>
+Numbers<br>
+Ockto<br>
+Own Your Data<br>
+Peercraft<br>
+Polypoly<br>
+Posti<br>
+Qiy Foundation<br>
+Schluss<br>
+Smart Species<br>
+Vastuu Group<br>
+Younode
+
+MyData Global の組織メンバーの全リストとメンバーとして参加する方法については、https://mydata.org/organisation-members をご参照ください。
 
 ## 貢献者とMyData Operatorsテーマ別グループ
 
@@ -609,20 +653,18 @@ fbloc.2019.00028/full (Accessed: 19 April 2020).
 
 ## 付録1 - <font color="orange">本ペーパーのために研究したプロトオペレーター</font>
 
-| 名前とリンク | &nbsp;&nbsp;&nbsp; 国・地域 &nbsp;&nbsp;&nbsp;| 説明（プロトオペレーターから提供） |
+| 名前とリンク | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国・地域 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 説明（プロトオペレーターから提供） |
 | :--- | :---: | :--- |
-| [OwnYourData](https://www.ownyourdata.eu/en/startseite/) | オーストリア | OwnYourDataは非営利団体であり、あなたの利益のためにあなたのデータへの無制限のアクセスを実現するのに役立ちます。 |
+| [OwnYourData](https://www.ownyourdata.eu/en/startseite/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;オーストリア &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| OwnYourDataは非営利団体であり、あなたの利益のためにあなたのデータへの無制限のアクセスを実現するのに役立ちます。 |
 | [Meeco](https://meeco.me/) | ベルギー | Meecoは、プライベートに、安全に、そして常に明示的な同意を得た上で、個人情報へのアクセス、管理、相互価値の創造を可能にするツールを提供します。Meecoは、企業がMyDataオペレーターになるための基盤となる技術を提供し、B2B、B2B2C、Me2Bサービス間の相互運用性を実現しながら、常にMyDataの個人中心の原則を遵守します。 |
 | [Smart Species](https://www.smartspecies.com/) | カナダ | ガバナンス統合、WHiSSPR監査役、カナダOPN:レジストラ、スマートパーソン、スマートシティ、スマートネーション   同意DDE、分散型透明性のためのデータトラストガバナンス、DLC (Digital Ledger Consent - デジタル台帳同意技術) プロバイダー。 |
-| [Diabetes Services](https://www.diabetes.services/) | デンマーク | Diabetes Servicesは、糖尿病患者の健康と生活の質を向上させるためのサービスを提供します。デジタルサービスや医療機器を横断してパーソナルデータを簡単に扱えるようにし、医療従事者、研究者などとのデータを共有するための個人向けアプリです。。 |
+| [Diabetes Services](https://www.diabetes.services/) | デンマーク | Diabetes Servicesは、糖尿病患者の健康と生活の質を向上させるためのサービスを提供します。デジタルサービスや医療機器を横断してパーソナルデータを簡単に扱えるようにし、医療従事者、研究者などとのデータを共有するための個人向けアプリです。 |
 | [Peercraft](https://www.peercraft.com/) | デンマーク | 現在、ユーザー中心のアイデンティティプロバイダーであるPeercraftは、完全に分散化されたビジネスおよびサービスディスカバリープロトコル（opendiscovery.biz）を介して、消費者のための購買エージェントになることを目指しています。 |
-| [1001 Lakes](https://1001lakes.com/) | フィンランド | 1001 Lakesは、人と組織が共により多くの価値を実現するために、信頼できるデータ共有を可能にします。
- |
+| [1001 Lakes](https://1001lakes.com/) | フィンランド | 1001 Lakesは、人と組織が共により多くの価値を実現するために、信頼できるデータ共有を可能にします。|
 | [City of Helsinki](https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-commits-to-furthering-mydata-principles) | フィンランド | ヘルシンキは、データを最大限に活用することで、世界で最も機能的な都市になりたいと考えています。ヘルシンキは、収集・処理するパーソナルデータの管理にマイデータの原則を適用しようとしています。 |
 | [Findy](https://www.findy.fi/) | フィンランド | Findyコンソーシアムは、共同で管理・運営されるパブリック及びプライベートの非営利の非中央集権型アイデンティティネットワークの立ち上げに向けて取り組んでいる。 |
 | [Gravito](https://www.gravito.net/) | フィンランド | Gravitoはドメインや組織を超えて自動的にあなたをフォローする、クラウドベースのリアルタイムな消費者プロファイルす。あなたのドメイン固有のマルチレベルの同意を定義することができ、あなたのプロファイルを周囲のデバイスや「モノ」に接続する手段を提供します。これにより、組織はリアルタイムの消費者プロファイル/セグメントにアクセスすることができ、人々自身が好みや同意を伝えます。 |
-| [Posti](https://www.posti.fi/en) | フィンランド | 私たちPostiは、公正で責任感があり、透明性のあるデジタルの未来を信じています。個人中心のデータ経済への発展を促進するテクノロジーとソリューションを採用することは、私たちと同様にすべての企業にとって関心事であるべきです。Postiは、22,000人以上の従業員を擁するフィンランドの大手郵便・物流サービス会社です。Postiは、郵便、物流、貨物、電子商取引など幅広いサービスを提供することで、日常生活の流れを管理しています。
- |
+| [Posti](https://www.posti.fi/en) | フィンランド | 私たちPostiは、公正で責任感があり、透明性のあるデジタルの未来を信じています。個人中心のデータ経済への発展を促進するテクノロジーとソリューションを採用することは、私たちと同様にすべての企業にとって関心事であるべきです。Postiは、22,000人以上の従業員を擁するフィンランドの大手郵便・物流サービス会社です。Postiは、郵便、物流、貨物、電子商取引など幅広いサービスを提供することで、日常生活の流れを管理しています。|
 | [Startup Commons Global](https://www.startupcommons.org/) | フィンランド | Circle Passは、スタートアップ・コモンズ・グローバルが提供するエコシステムOSパッケージの一部として提供されているサービスで、スタートアップのエコシステムをデジタルでつなぎ、可視化し、ベンチマーキングすることで、経済発展と起業家精神とイノベーションの成長を目指すことに重点を置いています。 |
 | [Vastuu Group](https://www.vastuugroup.fi/fi-en) | フィンランド | MyDataShareは、MyData OperatorsのためのSaaSプラットフォームで、デジタルID、パーソナルデータの共有、個人と互換性のあるデジタルサービス間でのパーミッションを管理します。 |
 | [Cozy Cloud](https://cozy.io/en) | フランス | Cozyは、パーソナルデータストアとサンドボックス化された実行プラットフォームを組み合わせたオープンなPIMSで、サービスが情報を開示することなくデータを活用できるようになっています。 |
@@ -662,51 +704,6 @@ fbloc.2019.00028/full (Accessed: 19 April 2020).
 | [Spartacus](https://spartacus.net/) | 米国 | Spartacusは2019年にData Fiduciary Inc.として法人化されました。 お客様のプライバシーを取り戻し、データとアイデンティティを保護するお手伝いをしています。 |
 | [UBDI](https://www.ubdi.com/) | 米国 | UBDIは、ソーシャル、金融、ウェアラブル、健康のアカウントから自分自身に関する何百万ものデータポイントを安全に集計し、関連性のある広告を見たときに時間と注意を払ったり、市場や金融調査のためにデータからの洞察を共有したりすることで報酬を得ることができます。 |
 
-
-### 謝辞
-
-MyData Global (mydata.org)は、50カ国以上の数百人の個人と数十の組織を会員として代表しています。本ペーパーの作成と出版を可能にしてくださった会員の皆様に感謝いたします。
-
-以下のMyData Globalのメンバーは、本ペーパーの編集作業と制作を支援してくださいました。
-
-Coelition
-InnoValor
-Sitra
-
-公開時点では、以下のプロトオペレーターがMyData Globalのメンバーでした。
-
-1001 Lakes
-comuny
-Cozy Cloud
-Datafund
-DataSign
-DataYogi
-Diabetes Services
-Digi.me
-esatus
-fair&smart
-Gravito
-Healthbank cooperative
-iGrant.io
-JLINC
-Meeco
-MIDATA
-Mydex
-MyLife Digital
-NTT DATA Corporation
-Numbers
-Ockto
-Own Your Data
-Peercraft
-Polypoly
-Posti
-Qiy Foundation
-Schluss
-Smart Species
-Vastuu Group
-Younode
-
-MyData Global の組織メンバーの全リストとメンバーとして参加する機会については、https://mydata.org/organisation-members を参照してください。
 
 この出版物は、Creative Common BY 4.0 ライセンス https://creativecommons.org/licenses/by/4.0 でライセンスされています。
 
