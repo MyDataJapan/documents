@@ -44,7 +44,7 @@
 | slido | sli.do s.r.o. | イベントオンライン質問ツール |
 | Trello | Atlassian Corporation Plc | タスク管理ツール |
 | Peatix | Peatix Japan株式会社 | イベント管理ツール |
-| Stripe | Stripe, Inc. | クレジットカード決済サービル |
+| Stripe | Stripe, Inc. | クレジットカード決済サービス |
 
 4. 私たちは、前各項に定めるほか、予め利用者の同意を得ることなく、パーソナルデータを提供しません。
 
